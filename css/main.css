@@ -2,5 +2,6 @@
 
 ---
 
+{% include css/bootstrap_min.css %}
 {% include css/main.css %}
 {% include css/font_awesome_min.css %}
